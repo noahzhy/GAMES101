@@ -8,3 +8,4 @@
 * P4 - [Transformation Cont.](P4.md)
 * P5 - [Rasterization 1](P5.md)
 * P6 - [Rasterization 2](P6.md)
+* P7 - [Shading 1](P7.md)
